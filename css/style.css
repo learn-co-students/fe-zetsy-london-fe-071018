@@ -17,4 +17,24 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1 {
+  font-family: baskerville;
+  font-size: 5em;
+  color: rgb(152,173,166);
+  display: block;
+  border-bottom: 1px solid;
+  padding-bottom: 10px;
+  margin: .67em 0;
+}
+
+h2 {
+  color: rgb(152,173,166);
+  font-size: 2em;
+}
+
+.featured {
+  border: 4px rgb(152,173,166) solid;
+}
+
+
 /* Write all remaining styles here */
